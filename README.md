@@ -129,8 +129,6 @@ http://localhost:9091
 
 http://localhost:9091/admin
   
-用户名：admin@convee.cn
+用户名：admin@test.cn
   
 密码：123456
-
-* 演示站：https://convee.cn
