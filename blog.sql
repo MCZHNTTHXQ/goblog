@@ -160,7 +160,7 @@ CREATE TABLE `user` (
 --
 
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'admin@convee.cn','$2a$08$kYT2DJz9W7Yv5AWv0swq6e0qgVyw9sOkKWQ5s20HBohXJLuYf4ZpG');
+INSERT INTO `user` VALUES (1,'admin@test.cn','$2a$08$kYT2DJz9W7Yv5AWv0swq6e0qgVyw9sOkKWQ5s20HBohXJLuYf4ZpG');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
