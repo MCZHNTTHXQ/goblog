@@ -4,12 +4,12 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/convee/goblog/conf"
-	"github.com/convee/goblog/internal/pkg/es"
-	"github.com/convee/goblog/internal/pkg/mysql"
-	"github.com/convee/goblog/internal/routers"
-	logger "github.com/convee/goblog/pkg/log"
-	"github.com/convee/goblog/pkg/redis"
+	"github.com/MCZHNTTHXQ/goblog/conf"
+	"github.com/MCZHNTTHXQ/goblog/internal/pkg/es"
+	"github.com/MCZHNTTHXQ/goblog/internal/pkg/mysql"
+	"github.com/MCZHNTTHXQ/goblog/internal/routers"
+	logger "github.com/MCZHNTTHXQ/goblog/pkg/log"
+	"github.com/MCZHNTTHXQ/goblog/pkg/redis"
 
 	"github.com/spf13/pflag"
 )

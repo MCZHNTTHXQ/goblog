@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/convee/goblog/conf"
-	"github.com/convee/goblog/internal/pkg/model"
-	"github.com/convee/goblog/internal/pkg/mysql"
-	"github.com/convee/goblog/internal/pkg/view"
+	"github.com/MCZHNTTHXQ/goblog/conf"
+	"github.com/MCZHNTTHXQ/goblog/internal/pkg/model"
+	"github.com/MCZHNTTHXQ/goblog/internal/pkg/mysql"
+	"github.com/MCZHNTTHXQ/goblog/internal/pkg/view"
 )
 
 func Index(w http.ResponseWriter, r *http.Request) {

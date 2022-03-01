@@ -3,7 +3,7 @@ package mysql
 import (
 	"database/sql"
 
-	"github.com/convee/goblog/pkg/storage/mysql"
+	"github.com/MCZHNTTHXQ/goblog/pkg/storage/mysql"
 
 	_ "github.com/go-sql-driver/mysql"
 )

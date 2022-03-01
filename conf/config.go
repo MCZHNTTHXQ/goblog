@@ -1,11 +1,11 @@
 package conf
 
 import (
-	"github.com/convee/goblog/pkg/log"
-	"github.com/convee/goblog/pkg/redis"
-	"github.com/convee/goblog/pkg/storage/elasticsearch"
-	"github.com/convee/goblog/pkg/storage/mysql"
-	"github.com/convee/goblog/pkg/storage/orm"
+	"github.com/MCZHNTTHXQ/goblog/pkg/log"
+	"github.com/MCZHNTTHXQ/goblog/pkg/redis"
+	"github.com/MCZHNTTHXQ/goblog/pkg/storage/elasticsearch"
+	"github.com/MCZHNTTHXQ/goblog/pkg/storage/mysql"
+	"github.com/MCZHNTTHXQ/goblog/pkg/storage/orm"
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"

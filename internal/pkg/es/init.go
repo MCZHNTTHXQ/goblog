@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/convee/goblog/pkg/storage/elasticsearch"
+	"github.com/MCZHNTTHXQ/goblog/pkg/storage/elasticsearch"
 
 	"github.com/olivere/elastic/v7"
 )

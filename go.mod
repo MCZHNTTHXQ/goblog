@@ -1,4 +1,4 @@
-module github.com/convee/goblog
+module github.com/MCZHNTTHXQ/goblog
 
 go 1.17
 

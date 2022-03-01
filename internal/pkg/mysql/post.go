@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/convee/goblog/internal/pkg/model"
+	"github.com/MCZHNTTHXQ/goblog/internal/pkg/model"
 )
 
 type PostParams struct {

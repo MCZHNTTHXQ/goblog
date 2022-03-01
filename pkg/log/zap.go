@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/convee/goblog/pkg/utils"
+	"github.com/MCZHNTTHXQ/goblog/pkg/utils"
 
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
 	"go.uber.org/zap"
